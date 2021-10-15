@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**nitish14920/nitish14920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Nitish Kumar from Haryana, India. I am skilled in Full Stack Development, MERN, Javascript and its frameworks.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What do I do?
+✔️ Though I hold B.tech degree in Electronics and Communication, I aspire to work as a programmer.
+
+✔️I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.
+
+⚡ One line that describes me best?
+A hard worker who enjoys good humour & coding.😉😉
+
+👯 Other interests
+I like playing Chess🃏 & solving puzzles🧩.
+
+📫 How can you reach me?
+Connect with me on Twitter or LinkedIn.
+
+💬 Want to know more about me?
+You can find my work on my Portfolio.
