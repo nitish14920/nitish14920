@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 I am Nitish Kumar from Haryana, India. I am skilled in Full Stack Development, MERN, Javascript and its frameworks.
@@ -19,7 +20,7 @@ I am Nitish Kumar from Haryana, India. I am skilled in Full Stack Development, M
 
 ***📫 How can you reach me?***
 
-    Connect with me on [LinkedIn](https://www.linkedin.com/in/nitish-kumar-a0848a129)
+<a href = "http://www.linkedin.com/in/nitish-kumar-a0848a129"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 ***💬 Want to know more about me?***
 
