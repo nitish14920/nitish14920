@@ -12,7 +12,7 @@ I am Nitish Kumar from Haryana, India. I am skilled in Full Stack Development, M
 
 ***⚡ One line that describes me best?***
 
-    A hard worker who enjoys good humour & coding.😉😉
+    A hard worker who enjoys good humour & coding.
 
 ***👯 Other interests***
 
